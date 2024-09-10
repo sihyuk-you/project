@@ -4,7 +4,7 @@ public class SimpleCalculator {
     public static void main(String[] args) {
         // 스캐너 객체 생성
         Scanner scanner = new Scanner(System.in);
-
+ 
         // 사용자로부터 두 숫자를 입력받기
         System.out.println("첫 번째 숫자를 입력하세요:");
         double num1 = scanner.nextDouble();
