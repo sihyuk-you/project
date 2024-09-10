@@ -20,7 +20,7 @@ public class SimpleCalculator {
 
         // 스캐너 종료
         scanner.close();
-
+ 
         // 종료
         System.out.println("종료");
         
