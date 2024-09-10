@@ -20,5 +20,7 @@ public class SimpleCalculator {
 
         // 스캐너 종료
         scanner.close();
+        
+        System.out.println("종료");
     }
 }
