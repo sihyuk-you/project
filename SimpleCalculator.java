@@ -19,7 +19,7 @@ public class SimpleCalculator {
         System.out.println("두 숫자의 합은: " + sum); 
 
         // 스캐너 종료
-        // scanner.close();
+        // scanner.close(); 
    
         // 종료
         System.out.println("종료");
