@@ -18,6 +18,7 @@ public class SimpleCalculator {
         // 결과 출력
         System.out.println("두 숫자의 합은: " + sum); 
 while(true){
+;
 }
         // 스캐너 종료
         // scanner.close(); 
