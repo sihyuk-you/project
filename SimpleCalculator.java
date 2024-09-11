@@ -11,7 +11,7 @@ public class SimpleCalculator {
   
         System.out.println("두 번째 숫자를 입력하세요:");
         double num2 = scanner.nextDouble();
- 
+   
         // 더하기 연산
         double sum = num1 + num2;
 
