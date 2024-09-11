@@ -6,7 +6,7 @@ public class SimpleCalculator {
         Scanner scanner = new Scanner(System.in);
  
         // 사용자로부터 두 숫자를 입력받기
-        System.out.println("첫 번째 숫자를 입력하세요:");
+        System.out.println("첫 번째 숫자를 입력하세요:"); 
         double num1 = scanner.nextDouble(); 
   
         System.out.println("두 번째 숫자를 입력하세요:");
